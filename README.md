@@ -10,7 +10,6 @@
 </div>
 
 - [ ] Project 1: My Porfolio (HTML/CSS/JS)
-- [ ] Project 2: YT Downloader Website (Python/HTML/CSS/JS)
 
 <div align="center">
   
